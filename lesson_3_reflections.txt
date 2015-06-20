@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+-> When there are multiple contributors and/or devices involved. And when I want to keep
+keep all the work somewhere safe.
