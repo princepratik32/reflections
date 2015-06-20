@@ -10,3 +10,33 @@ What value do you think it offers?
 -> Staging area is a place where files are put when they need to be committed in
 next commit. Files in staging area are not already commited but are the chosen
 ones to be committed. It may not include all the files from working directory.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+-> If we made more than one changes that we want to commit, we can add one of them
+at a time to staging area to commit individually.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+-> Branch would be helpful to make a change that we're not yet confident to put
+in master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+-> When it gets very complicated, i.e. too many commits and branchs it is not
+possible to visualize without diagrams.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+-> The merge command merges all the chanegs in all the merged branches to the
+original commit from where the branch starte, resulting in a single commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+-> Git's automatic mergning makes it very easy to merge branches when possible,
+if there are too many commits to be merged, doing it manually is tedious and
+error prone.
