@@ -26,3 +26,10 @@ be harder?
 
 -> It would be too messy to collaborate without git. The mess would increase exponentially
 with increase in number of contributors.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+-> When we are working with other people we should work on separate branch so that we don't
+mess with the master branch that they might have forked from. When we're working privately,
+working directly on master can make things a bit simpler.
