@@ -15,3 +15,8 @@ instead of another?
 -> Forks are clones on Github which maintains connection to parent repository. Clone
 simply clones the given repository. Branch is applied to same repo and it stays connectd
 to the original repo.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+-> It can be helpful when you want to work offline. The more updated your copy of repo is,
+the lesser the chances of conflicts.
